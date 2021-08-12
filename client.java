@@ -7,6 +7,6 @@ Public static void main (String args[])
 }
 
 Adding new update & latest updates
-
+Additional line
 Major changes happened
 
